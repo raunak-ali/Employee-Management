@@ -1,0 +1,11 @@
+C:\Users\rauali\Desktop\.Net\Employee Management\HMSException\bin\Debug\net8.0\HMSException.deps.json
+C:\Users\rauali\Desktop\.Net\Employee Management\HMSException\bin\Debug\net8.0\HMSException.dll
+C:\Users\rauali\Desktop\.Net\Employee Management\HMSException\bin\Debug\net8.0\HMSException.pdb
+C:\Users\rauali\Desktop\.Net\Employee Management\HMSException\obj\Debug\net8.0\HMSException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rauali\Desktop\.Net\Employee Management\HMSException\obj\Debug\net8.0\HMSException.AssemblyInfoInputs.cache
+C:\Users\rauali\Desktop\.Net\Employee Management\HMSException\obj\Debug\net8.0\HMSException.AssemblyInfo.cs
+C:\Users\rauali\Desktop\.Net\Employee Management\HMSException\obj\Debug\net8.0\HMSException.csproj.CoreCompileInputs.cache
+C:\Users\rauali\Desktop\.Net\Employee Management\HMSException\obj\Debug\net8.0\HMSException.dll
+C:\Users\rauali\Desktop\.Net\Employee Management\HMSException\obj\Debug\net8.0\refint\HMSException.dll
+C:\Users\rauali\Desktop\.Net\Employee Management\HMSException\obj\Debug\net8.0\HMSException.pdb
+C:\Users\rauali\Desktop\.Net\Employee Management\HMSException\obj\Debug\net8.0\ref\HMSException.dll
