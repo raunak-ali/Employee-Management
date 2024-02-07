@@ -1,0 +1,313 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\Mainprogram\\Mainprogram.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeBLL\\EmployeeBLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeBLL\\EmployeeBLL.csproj",
+        "projectName": "EmployeeBLL",
+        "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeBLL\\EmployeeBLL.csproj",
+        "packagesPath": "C:\\Users\\rauali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeBLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rauali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeDAL\\EmployeeDAL.csproj": {
+                "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeDAL\\EmployeeDAL.csproj"
+              },
+              "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeEntity\\EmployeeEntity.csproj": {
+                "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeEntity\\EmployeeEntity.csproj"
+              },
+              "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\HMSException\\HMSException.csproj": {
+                "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\HMSException\\HMSException.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeDAL\\EmployeeDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeDAL\\EmployeeDAL.csproj",
+        "projectName": "EmployeeDAL",
+        "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeDAL\\EmployeeDAL.csproj",
+        "packagesPath": "C:\\Users\\rauali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rauali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeEntity\\EmployeeEntity.csproj": {
+                "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeEntity\\EmployeeEntity.csproj"
+              },
+              "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\HMSException\\HMSException.csproj": {
+                "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\HMSException\\HMSException.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeEntity\\EmployeeEntity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeEntity\\EmployeeEntity.csproj",
+        "projectName": "EmployeeEntity",
+        "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeEntity\\EmployeeEntity.csproj",
+        "packagesPath": "C:\\Users\\rauali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeEntity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rauali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\HMSException\\HMSException.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\HMSException\\HMSException.csproj",
+        "projectName": "HMSException",
+        "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\HMSException\\HMSException.csproj",
+        "packagesPath": "C:\\Users\\rauali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\HMSException\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rauali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\Mainprogram\\Mainprogram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\Mainprogram\\Mainprogram.csproj",
+        "projectName": "Mainprogram",
+        "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\Mainprogram\\Mainprogram.csproj",
+        "packagesPath": "C:\\Users\\rauali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\Mainprogram\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rauali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeBLL\\EmployeeBLL.csproj": {
+                "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeBLL\\EmployeeBLL.csproj"
+              },
+              "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeDAL\\EmployeeDAL.csproj": {
+                "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeDAL\\EmployeeDAL.csproj"
+              },
+              "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeEntity\\EmployeeEntity.csproj": {
+                "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeEntity\\EmployeeEntity.csproj"
+              },
+              "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\HMSException\\HMSException.csproj": {
+                "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\HMSException\\HMSException.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

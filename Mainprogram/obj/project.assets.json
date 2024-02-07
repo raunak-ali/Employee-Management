@@ -1,0 +1,157 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "EmployeeBLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "EmployeeDAL": "1.0.0",
+          "EmployeeEntity": "1.0.0",
+          "HMSException": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EmployeeBLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeBLL.dll": {}
+        }
+      },
+      "EmployeeDAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "EmployeeEntity": "1.0.0",
+          "HMSException": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EmployeeDAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeDAL.dll": {}
+        }
+      },
+      "EmployeeEntity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EmployeeEntity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeEntity.dll": {}
+        }
+      },
+      "HMSException/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/HMSException.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HMSException.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeBLL/1.0.0": {
+      "type": "project",
+      "path": "../EmployeeBLL/EmployeeBLL.csproj",
+      "msbuildProject": "../EmployeeBLL/EmployeeBLL.csproj"
+    },
+    "EmployeeDAL/1.0.0": {
+      "type": "project",
+      "path": "../EmployeeDAL/EmployeeDAL.csproj",
+      "msbuildProject": "../EmployeeDAL/EmployeeDAL.csproj"
+    },
+    "EmployeeEntity/1.0.0": {
+      "type": "project",
+      "path": "../EmployeeEntity/EmployeeEntity.csproj",
+      "msbuildProject": "../EmployeeEntity/EmployeeEntity.csproj"
+    },
+    "HMSException/1.0.0": {
+      "type": "project",
+      "path": "../HMSException/HMSException.csproj",
+      "msbuildProject": "../HMSException/HMSException.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "EmployeeBLL >= 1.0.0",
+      "EmployeeDAL >= 1.0.0",
+      "EmployeeEntity >= 1.0.0",
+      "HMSException >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rauali\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\Mainprogram\\Mainprogram.csproj",
+      "projectName": "Mainprogram",
+      "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\Mainprogram\\Mainprogram.csproj",
+      "packagesPath": "C:\\Users\\rauali\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\Mainprogram\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rauali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeBLL\\EmployeeBLL.csproj": {
+              "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeBLL\\EmployeeBLL.csproj"
+            },
+            "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeDAL\\EmployeeDAL.csproj": {
+              "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeDAL\\EmployeeDAL.csproj"
+            },
+            "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeEntity\\EmployeeEntity.csproj": {
+              "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\EmployeeEntity\\EmployeeEntity.csproj"
+            },
+            "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\HMSException\\HMSException.csproj": {
+              "projectPath": "C:\\Users\\rauali\\Desktop\\.Net\\Employee Management\\HMSException\\HMSException.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
