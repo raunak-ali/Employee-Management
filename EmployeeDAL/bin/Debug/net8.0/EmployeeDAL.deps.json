@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EmployeeDAL/1.0.0": {
+        "dependencies": {
+          "EmployeeEntity": "1.0.0",
+          "HMSException": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeDAL.dll": {}
+        }
+      },
+      "EmployeeEntity/1.0.0": {
+        "runtime": {
+          "EmployeeEntity.dll": {}
+        }
+      },
+      "HMSException/1.0.0": {
+        "runtime": {
+          "HMSException.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeEntity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HMSException/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeDAL\obj\Debug\net8.0\EmployeeDAL.csproj.AssemblyReference.cache
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeDAL\obj\Debug\net8.0\EmployeeDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeDAL\obj\Debug\net8.0\EmployeeDAL.AssemblyInfoInputs.cache
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeDAL\obj\Debug\net8.0\EmployeeDAL.AssemblyInfo.cs
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeDAL\obj\Debug\net8.0\EmployeeDAL.csproj.CoreCompileInputs.cache
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeDAL\bin\Debug\net8.0\EmployeeDAL.deps.json
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeDAL\bin\Debug\net8.0\EmployeeDAL.dll
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeDAL\bin\Debug\net8.0\EmployeeDAL.pdb
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeDAL\bin\Debug\net8.0\EmployeeEntity.dll
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeDAL\bin\Debug\net8.0\HMSException.dll
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeDAL\bin\Debug\net8.0\EmployeeEntity.pdb
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeDAL\bin\Debug\net8.0\HMSException.pdb
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeDAL\obj\Debug\net8.0\EmployeeDAL.csproj.CopyComplete
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeDAL\obj\Debug\net8.0\EmployeeDAL.dll
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeDAL\obj\Debug\net8.0\refint\EmployeeDAL.dll
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeDAL\obj\Debug\net8.0\EmployeeDAL.pdb
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeDAL\obj\Debug\net8.0\ref\EmployeeDAL.dll
