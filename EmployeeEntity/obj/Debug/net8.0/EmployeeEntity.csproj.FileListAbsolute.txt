@@ -1,0 +1,11 @@
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeEntity\bin\Debug\net8.0\EmployeeEntity.deps.json
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeEntity\bin\Debug\net8.0\EmployeeEntity.dll
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeEntity\bin\Debug\net8.0\EmployeeEntity.pdb
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeEntity\obj\Debug\net8.0\EmployeeEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeEntity\obj\Debug\net8.0\EmployeeEntity.AssemblyInfoInputs.cache
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeEntity\obj\Debug\net8.0\EmployeeEntity.AssemblyInfo.cs
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeEntity\obj\Debug\net8.0\EmployeeEntity.csproj.CoreCompileInputs.cache
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeEntity\obj\Debug\net8.0\EmployeeEntity.dll
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeEntity\obj\Debug\net8.0\refint\EmployeeEntity.dll
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeEntity\obj\Debug\net8.0\EmployeeEntity.pdb
+C:\Users\rauali\Desktop\.Net\Employee Management\EmployeeEntity\obj\Debug\net8.0\ref\EmployeeEntity.dll
